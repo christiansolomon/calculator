@@ -27,7 +27,7 @@ h1 {
 
     color: white;
 
-    font-size: medium;
+    font-size: 20px;
 
     width: 100%;
 
@@ -62,6 +62,8 @@ input[type="button"]:active {
     height: 40px;
 
     cursor: pointer;
+
+    font-size: 20px;
 }
 
 .number {
@@ -76,6 +78,8 @@ input[type="button"]:active {
     width: 100%;
 
     cursor: pointer;
+
+    font-size: 20px;
 }
 
 .decimal {
@@ -92,10 +96,12 @@ input[type="button"]:active {
     height: 40px;
 
     cursor: pointer;
+
+    font-size: 20px;
 }
 
 .clear {
-    background-color: lightsalmon;
+    background-color: red;
 
     padding: 5px;
 
@@ -112,6 +118,8 @@ input[type="button"]:active {
     margin: auto;
 
     margin-bottom: 10px;
+
+    font-size: 20px;
 }
 
 .equal {
@@ -128,6 +136,8 @@ input[type="button"]:active {
     height: 40px;
 
     cursor: pointer;
+
+    font-size: 20px;
 }
 
 .container {
